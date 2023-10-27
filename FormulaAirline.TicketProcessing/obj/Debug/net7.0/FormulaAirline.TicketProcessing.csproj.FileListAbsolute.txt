@@ -12,3 +12,6 @@ D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\
 D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
 D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
 D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete

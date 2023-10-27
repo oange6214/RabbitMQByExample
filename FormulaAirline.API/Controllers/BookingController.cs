@@ -1,4 +1,6 @@
 
+using FormulaAirline.API.Models;
+using FormulaAirline.API.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FormulaAirline.API.Controllers;
@@ -8,15 +10,31 @@ namespace FormulaAirline.API.Controllers;
 public class BookingController : ControllerBase
 {
     private readonly ILogger<BookingController> _logger;
+    private readonly IMessageProducer _messageProducer;
 
-    public BookingController(ILogger<BookingController> logger)
+    // In-Memory db
+    public static readonly List<Booking> _bookings = new ();
+
+    public BookingController(
+        ILogger<BookingController> logger, 
+        IMessageProducer messageProducer)
     {
         _logger = logger;
+        _messageProducer = messageProducer;
     }
 
-    [HttpGet(Name = "GetBooking")]
-    public IEnumerable<BookingController> Get()
+    [HttpPost]
+    public IActionResult CreatingBooking(Booking newBooking)
     {
-        
+        if (!ModelState.IsValid)
+        {
+            return BadRequest();
+        }
+
+        _bookings.Add(newBooking);
+
+        _messageProducer.SendingMessage<Booking>(newBooking);
+
+        return Ok();
     }
 }
