@@ -1,0 +1,14 @@
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+D:\Workspaces\Devolops\WebAPI\RabbitMQByExample\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
